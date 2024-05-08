@@ -1,0 +1,13 @@
+.MuiInputBase-root {
+  background-color: #e8f3f3 !important;
+  border-radius: 5px !important;
+}
+
+.MuiInputLabel-root {
+  color: #49aca8 !important;
+}
+
+.MuiInputBase-root > fieldset {
+  border-color: #49aca8 !important;
+  border-radius: 5px !important;
+}
